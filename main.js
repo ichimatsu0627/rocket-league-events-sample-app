@@ -4,7 +4,8 @@ window.addEventListener('load', function () {
       'stats',
       'roster',
       'match',
-      'me'
+      'me',
+      'match_info'
     ];
     
     var textarea = document.getElementById('textareaMessage');
